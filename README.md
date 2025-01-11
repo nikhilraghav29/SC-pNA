@@ -8,7 +8,7 @@ The details of the technique can be found [here](https://arxiv.org/pdf/2410.0002
 Our implementation is based on a modified version of the AMI recipe provided in the SpeechBrain toolkit.
 - Follow the installation guidelines for the SpeechBrain toolkit provided [here](https://github.com/speechbrain/speechbrain "Heading link") 
 ## Method
-The following three files were modified and contains the scripts for the proposed SC-pNA technique:
+The following three files were modified from the exisitng AMI recipe, and were adapted for the experiments on the DIHARD-III dataset. It contains, the scripts for the proposed SC-pNA technique:
 - experiment.py located at /speechbrain/recipes/AMI/Diarization/experiment.py
 - ecapa_tdnn.yaml located at /speechbrain/recipes/AMI/Diarization/ecapa_tdnn.yaml
 - diarization.py located at /speechbrain/speechbrain/processing/diarization.py
