@@ -16,12 +16,14 @@ The following three files were modified from the exisitng AMI recipe, and were a
 ## Citation
 If you find our approach useful in your research, please consider citing:
 
+```
 @article{raghav2024self,
   title={Self-Tuning Spectral Clustering for Speaker Diarization},
   author={Raghav, Nikhil and Gupta, Avisek and Sahidullah, Md and Das, Swagatam},
   journal={arXiv preprint arXiv:2410.00023},
   year={2024}
 }
-
+```
 ## License
 This project is licensed under the MIT License. The full terms of the MIT License can be found in the LICENSE.md file at the root of this project.
+
