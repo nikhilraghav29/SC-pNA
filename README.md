@@ -2,7 +2,7 @@
 ### About
 This repository contains the implementation for the paper: 
 - "Raghav, Nikhil and Gupta, Avisek and Sahidullah, Md and Das, Swagatam, "Self-Tuning Spectral Clustering for Speaker Diarization", to appear in Proc. of ICASSP 2025.
-The details of the technique can be found [here](https://arxiv.org/pdf/2410.00023? "paper link")
+The details of the technique can be found [here]([https://arxiv.org/pdf/2410.00023?](https://ieeexplore.ieee.org/abstract/document/10890194) "paper link")
 
 ## Dependencies
 Our implementation is based on a modified version of the AMI recipe provided in the SpeechBrain toolkit.
